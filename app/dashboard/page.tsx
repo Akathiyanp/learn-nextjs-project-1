@@ -1,5 +1,12 @@
-export default function Dashboard() {
-    return (
-        <h1>This is from dashboard</h1>
-    )
+
+export default async function Dashboard() {
+
+
+  return(
+    <div>
+        <h1>Welcome to the dashboard</h1>
+    </div>
+  )
+
+  
 }
